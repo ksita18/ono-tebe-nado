@@ -1,10 +1,10 @@
 .header {
-    padding: 92px 50px; 
+    padding: 92px 50px;
     display: grid;
     grid-template-columns: 1fr 148px 1fr;
 }
 
-.header__menu { 
+.header__menu {
     color: #000;
     font-size: 18px;
     font-style: normal;
@@ -328,7 +328,7 @@
 }
 
 .footer__menu {
-   text-align: center; 
+   text-align: center;
 }
 
 .footer__menu-list {
